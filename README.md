@@ -11,3 +11,5 @@ Le projet "Model_detection_maladies_tomate" vise à développer un modèle de vi
 
 ### 4/ Évaluation du Modèle 
 
+# Télécharger la dernière version du dataset
+path = kagglehub.dataset_download("farukalam/tomato-leaf-diseases-detection-computer-vision")
